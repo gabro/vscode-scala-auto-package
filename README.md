@@ -1,7 +1,9 @@
 # vscode-scala-auto-package
 
-Automatically insert a toplevel `package {name}` statement when creating a Scala
+Automatically inserts a toplevel `package {name}` statement when creating a Scala
 file, where `{name}` is inferred from the file system structure.
+
+![Demo](assets/demo.gif)
 
 E.g. if you create a file in `src/main/scala/io/buildo/myproject/`, this
 extension will automatically add
