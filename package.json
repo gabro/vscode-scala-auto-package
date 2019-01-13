@@ -2,7 +2,7 @@
   "name": "vscode-scala-auto-package",
   "displayName": "Scala auto package",
   "description": "Automatically insert a package statement upon file creation",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "engines": {
     "vscode": "^1.30.0"
   },
