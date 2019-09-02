@@ -1,3 +1,12 @@
+
+# DEPRECATED
+
+This extension is now deprecated in favor of [Metals](https://scalameta.org/metals).
+
+Read more about the deprecation [here](./MIGRATING.md).
+
+---
+
 # vscode-scala-auto-package
 
 Automatically inserts a toplevel `package {name}` statement when creating a Scala
